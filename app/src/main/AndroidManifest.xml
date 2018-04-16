@@ -1,0 +1,102 @@
+ b<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="xyz.sumeshmajhi.www.sakam">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WELCOME.Splash_screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".WELCOME.WelComeActivity" />
+        <activity android:name=".Cate.CategoryActivity" />
+        <activity android:name=".DetailsActivity" />
+        <activity android:name=".fragment.State_schools_details" />
+        <activity android:name=".Details_Activity" />
+        <activity android:name=".Jharkhand.Jharkhand_schools_details" />
+        <activity android:name=".Assam.Assam_schools_details" />
+        <activity android:name=".Odisha.Odisha_State_deatils" />
+        <activity android:name=".Emrs_Od.Emrs_Hirli" />
+        <activity android:name=".Emrs_Od.Emrs_Sungargarh" />
+        <activity android:name=".Emrs_Od.Emrs_Dhangera" />
+        <activity android:name=".Emrs_Od.Emrs_keonjhar" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".jharkhand_map"
+            android:label="@string/title_activity_jharkhand_map" />
+        <activity
+            android:name=".CurrentLocation"
+            android:label="@string/title_activity_current_location" />
+        <!-- <activity android:name=".Emrs_Od.Emrs_gajapatiOd" /> -->
+        <!-- <activity android:name=".Emrs_Od.Emrs_Dhangera" /> -->
+        <!-- <activity android:name=".Emrs_Od.Emrs_Hirli" /> -->
+        <!-- <activity android:name=".Emrs_Od.Emrs_Sungargarh" /> -->
+        <!-- <activity android:name=".Emrs_Od.Emrs_keonjhar" /> -->
+        <activity android:name=".Ashram_Od.Ashram_angul" />
+        <activity android:name=".Ashram_Od.Ashram_mahada" />
+        <activity android:name=".Ashram_Od.Ashram_ctc" />
+        <activity android:name=".Ashram_Od.Ashram_Bhadrak" />
+        <activity android:name=".Ashram_Od.Ashram_Bargarh" />
+        <activity android:name=".Emrs_Od.Emrs_gajapati" />
+        <activity android:name=".Assam_Emrs.Emrs_dalbari" />
+        <activity android:name=".Ashram_Assam.Ashram_Dalobari" />
+        <activity android:name=".Ashram_Assam.Ashram_Harihar" />
+        <activity android:name=".Ashram_Assam.Ashram_mongolian" />
+        <activity android:name=".Ashram_Assam.Ashram_Mukhigaons" />
+        <activity android:name=".Ashram_Assam.Ashram_Mukhigaon" />
+        <activity android:name=".Jharkhand_Ashram.Ashram_kathautia" />
+        <activity android:name=".Jharkhand_Ashram.ashram_latehar" />
+        <activity android:name=".Jharkhand_Ashram.ashram_chatra" />
+        <activity android:name=".Jharkhand_Ashram.ashram_sahibganj" />
+        <activity android:name=".Jharkhand_Ashram.ashram_sanghri" />
+        <activity android:name=".Jharkhand_Emrs.emrs_kathijori" />
+        <activity android:name=".Jharkhand_Emrs.emrs_bhognadih" />
+        <activity android:name=".Jharkhand_Emrs.emrs_dhanbad" />
+        <activity android:name=".Jharkhand_Emrs.emrs_salgadih" />
+        <activity android:name=".Jharkhand_Emrs.emrs_torsinduri" />
+        <activity
+            android:name=".Assam_map"
+            android:label="@string/title_activity_assam_map" />
+        <activity android:name=".Odisha_map" />
+        <activity
+            android:name=".Assam_mapView"
+            android:label="@string/title_activity_assam_map_view" />
+        <activity android:name=".ERMSYouTube"></activity>
+    </application>
+
+</manifest>

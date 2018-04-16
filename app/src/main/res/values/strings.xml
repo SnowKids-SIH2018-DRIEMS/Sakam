@@ -1,0 +1,186 @@
+<resources>
+
+    <string name="view_map">View Map</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="school_name">School Name :</string>
+    <string name="school_type">School Type :</string>
+    <string name="status">Status :</string>
+    <string name="strength">Strength :</string>
+    <string name="total_staff">Total Staff :</string>
+    <string name="eligibility_criteria">Eligibility Criteria :</string>
+    <string name="description">Description :</string>
+    <string name="no_of_vacant_seats">No of vacant seats :</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+
+    <!--*********************ODISHA**emrs****************-->
+    <string-array name="odisha_emrs_school_name">
+
+        <item>"Eklavya Model Residential School,Chandragiri,Gajapati,Odisha(761217)"
+        </item>
+
+        <item>"Eklavya Model Residential School,Dhanghera, Mayur Bhanj, Odisha(757087)"
+        </item>
+
+        <item>"Eklavya Model Residential School,Hirli, Nabaranpur, Odisha(764059)"
+        </item>
+
+        <item>"Eklavya Model Residential School,Laing, Sungargarh, Odisha(770034)"
+        </item>
+
+        <item>"Eklavya Model Residential School,Ranki, Keonjhar, Odisha(758002)"
+        </item>
+
+    </string-array>
+
+    <string-array name="odisha_emrs_image">
+
+        <item>@drawable/chandragiri</item>
+
+        <item>@drawable/dhanghera</item>
+
+        <item>@drawable/hrili</item>
+
+        <item>@drawable/laing</item>
+
+        <item>@drawable/ranki</item>
+
+    </string-array>
+
+
+    <!--***********************************Odisha_AShram*****************************************-->
+
+    <string-array name="odisha_ashram_name">
+
+        <item>"Baghamunda Ashram School, Angul, Orissa(759127)"</item>
+
+        <item>"Barapada Sevashrama School, Mahada, Balasore, Orissa(756020)"</item>
+
+        <item>"Rahangola Ashram School, Cuttack, Orissa(754295)"</item>
+
+        <item>"Ranjit Residential Sevashram School, Bhadrak, Orissa(756122)"</item>
+
+        <item>"Sodapali Sev School, Bargarh, Orissa(768027)"</item>
+
+    </string-array>
+
+
+    <string-array name="odisha_ashram_image">
+
+        <item>@drawable/angul</item>
+
+        <item>@drawable/barapada</item>
+
+        <item>@drawable/rahangola</item>
+
+        <item>@drawable/ranjit</item>
+
+        <item>@drawable/sodapali</item>
+
+    </string-array>
+
+
+    <!--Sumesh-->
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="feedback">Feedback</string>
+    <string name="slide_show_image">Slide Show Image</string>
+    <string name="eklavya_model_residential_school">Eklavya Model Residential School</string>
+    <string name="ashram_schools">Ashram Schools</string>
+    <string name="descriptionE">To provide quality middle and high level education to ST student in remote areas.</string>
+    <string name="descriptionA">Concept is to provide education to ST children who have been derived from Traditional Gurukulas</string>
+    <string name="view_more">View More</string>
+
+
+    <string name="app_name">Sakam</string>
+
+    <string name="students_images">Students_Images</string>
+    <string name="nested_scroll_view">Nested Scroll View</string>
+    <string name="sakam_icon">Sakam Icon</string>
+    <string name="category">Category</string>
+    <string name="profile">Profile</string>
+    <string name="text_1">TEXT 1</string>
+    <string name="text_2">TEXT 2</string>
+    <string name="text_3">TEXT 3</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Palais Garnier</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+    <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+
+    <string-array name="india_states">
+        <item>Assam</item>
+        <item>Odisha</item>
+        <item>Jharkhand</item>
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Rajasthan</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+
+    </string-array>
+
+
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--Folding-->
+    <!--  <string name="app_name" translatable="false">Folding Cell ListView Example</string>-->
+    <string name="order_id_mock" translatable="false"># 1234–5678</string>
+    <string name="price_mock" translatable="false">$25</string>
+    <string name="requests_count_mock" translatable="false">5</string>
+    <string name="requests_count_badge" translatable="false">REQUESTS</string>
+    <string name="weight_mock" translatable="false">50 oz</string>
+    <string name="weight_badge" translatable="false">WEIGHT</string>
+    <string name="pledge_mock" translatable="false">$150</string>
+    <string name="pledge_badge" translatable="false">PLEDGE</string>
+    <string name="sender_badge" translatable="false">SENDER</string>
+    <string name="client_name_mock" translatable="false">Edward Norton</string>
+    <string name="rating_mock" translatable="false">(26)</string>
+    <string name="from_badge" translatable="false">FROM</string>
+    <string name="to_badge" translatable="false">TO</string>
+    <string name="delivery_date_badge" translatable="false">DELIVERY DATE</string>
+    <string name="delivery_time_mock" translatable="false">6:30 pm</string>
+    <string name="delivery_date_mock" translatable="false">May 16, 2016</string>
+    <string name="deadline_badge" translatable="false">REQUEST DEADLINE</string>
+    <string name="deadline_time_mock" translatable="false">24 minutes</string>
+    <string name="request_btn_text" translatable="false">REQUEST</string>
+    <string name="btn_annotation_mock" translatable="false">5 people have sent a request</string>
+    <string name="content_from1_mock">W 90th St</string>
+    <string name="content_from2_mock">New York, NY 10025</string>
+    <string name="content_to1_mock">46th Ave</string>
+    <string name="content_to2_mock">Woodside, NY 11101</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_jharkhand_map">Map</string>
+    <string name="title_activity_current_location">Map</string>
+    <string name="title_activity_assam_map">Map</string>
+    <string name="title_activity_assam_map_view">Map</string>
+    <string name="erms_youtube">The objective of EMRS is to provide quality middle and high level education to Scheduled Tribes (ST) students in remote areas, not only to enable them to avail of reservation in high and professional educational courses and as jobs in government and public and private sectors but also to have access to the best opportunities in education at par with the non ST population. This would be achieved by: i. Comprehensive physical, mental and socially relevant development of all students enrolled in each and every EMRS. Students will be empowered to be change agent, beginning in their school, in their homes, in their village and finally in a large context. ii. Focus differentially on the educational support to be made available to those in Standards XI to X, so that their distinctive needs can be met, iii. Support the annual running expenses in a manner that offers reasonable remuneration to the staff and upkeep of the facilities. iv. Support the construction of infrastructure that provides education, physical, environmental and cultural needs of student life.</string>
+    <string name="book_now">Book Now</string>
+</resources>

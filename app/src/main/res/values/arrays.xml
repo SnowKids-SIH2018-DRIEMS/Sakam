@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--*************************************Jharkhand EMRS***************************************-->
+
+    <string-array name="jharkhand_emrs_school_name">
+
+        <item>"Eklavya Model Residential Girls's School,Kathijoria,Dumka,Jharkhand(814101)"</item>
+
+        <item>"Sk Eklavya Vidhyalaya Bhognadih School,Bhognadih,Sahibganj,Jharkhand(816102) "</item>
+
+        <item>"Eklavya Madhyamik Vidyalaya Sahraj School,Sahraj, Dhanbad, Jharkhand(828109) "</item>
+
+        <item>"Eklavya Vidyalaya Salgadih School,Murpa, Ranchi, Jharkhand,(835225) "</item>
+
+        <item>"Eklavya Model Avasiye School (G) +2,Torsinduri, Pashchimi Singhbhum,Jharkhand(833201)"</item>
+
+    </string-array>
+
+    <!--********************************JHARKHAND Ashram*****************************************-->
+    <string-array name="jharkhand_ashram_school_name">
+        <item>"Upg.P.S.Buiyan Toli,Kathautiya School,Kathautia, Chatra, Jharkhand(825401)"</item>
+        <item>"Govt Ms Ashram Latehar School,Latehar(Nac), Latehar, Jharkhand(829206)"</item>
+        <item>"M.S.Geeta Ashram School,W.No 7, Chatra, Jharkhand(825401)"</item>
+        <item>"Upg Ps. Ashram, Sarkari Gali School,Ashram, Sarkari Gali, Sahibganj, Jharkhand(816115)"</item>
+        <item>"Upg.M.S.Hindi Sanghri School,Sanghri, Chatra, Jharkhand (825401) "</item>
+    </string-array>
+
+
+
+    <string-array name="jharkhand_emrs_image">
+
+        <item>@drawable/dumka</item>
+
+        <item>@drawable/sahibganj</item>
+
+        <item>@drawable/sharaj</item>
+
+        <item>@drawable/salgadih</item>
+
+        <item>@drawable/torsinduri</item>
+
+    </string-array>
+
+
+    <string-array name="jharkhand_ashram_image">
+        <item>@drawable/kathautiya</item>
+        <item>@drawable/lather</item>
+        <item>@drawable/msgeeta</item>
+        <item>@drawable/asahibganj</item>
+        <item>@drawable/sanghri</item>
+    </string-array>
+
+
+
+
+
+<string-array name="as_ek_img">
+    <item>@drawable/dalbari</item>
+</string-array>
+
+    <string-array name="as_ashram_image">
+        <item>@drawable/harihr</item>
+        <item>@drawable/daloabari</item>
+        <item>@drawable/mongolian</item>
+        <item>@drawable/mukhigaon</item>
+        <item>@drawable/mukhigaons</item>
+
+    </string-array>
+
+    <string-array name="assam_emrs_school_name">
+        <item>"EKLAVYA MODEL RESIDENTIAL SCHOOL,DALBARI,BAKSA,ASSAM(781333)"</item>
+    </string-array>
+
+    <string-array name="assam_ashram_school_name">
+        <item>"No.755 Harihar Ashram Lps School,Bandarchara, Kokrajhar, Assam(783372)"</item>
+        <item>"No.897 Jyoti Ashram Lps School,Daloabari Part-Ii, Kokrajhar, Assam(783370)"</item>
+        <item>"Mongolian Bwishnovi Ashram Sch (Pvt) School,Tulshibil, Kokrajhar, Assam(783337)"</item>
+        <item>" Sakti Ashram H.S. and Voc. School,Mukhigaon, Kokrajhar,Assam(783354)"</item>
+        <item>"No.271 Shakti Ashram Jb School,Mukhigaon, Kokrajhar, Assam(783354)"</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="places">
+        <item> </item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>EKLAVYA MODEL RESIDENTIAL SCHOOL </item>
+        <item>EKLAVYA MODEL RESIDENTIAL SCHOOL</item>
+        <item>EKLAVYA MODEL RESIDENTIAL SCHOOL</item>
+        <item>Sri Ram Krishna Ashram High School</item>
+        <item>EKLAVYA MODEL RESIDENTIAL SCHOOL</item>
+        <item>EKLAVYA MODEL RESIDENTIAL SCHOOL</item>
+
+    </string-array>
+
+
+
+    <string-array name="place_details">
+
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+
+    <array name="place_avator">
+        <item>@drawable/er</item>
+        <item>@drawable/e_k</item>
+        <item>@drawable/scc</item>
+        <item>@drawable/scc</item>
+        <item>@drawable/student2</item>
+        <item>@drawable/student2</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/emn</item>
+        <item>@drawable/e_k</item>
+        <item>@drawable/scc</item>
+        <item>@drawable/scc</item>
+        <item>@drawable/student2</item>
+        <item>@drawable/student2</item>
+    </array>
+
+
+ <!--   <string-array name="india_states">
+        <item>Assam</item>
+        <item>Orissa</item>
+        <item>Jharkhand</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+-->
+
+
+
+
+    </resources>

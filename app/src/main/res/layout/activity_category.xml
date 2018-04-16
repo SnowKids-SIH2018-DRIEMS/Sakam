@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="xyz.sumeshmajhi.www.sakam.Cate.CategoryActivity">
+
+
+
+    <TextView
+        android:id="@+id/stateTV"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:text="STATES "
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textSize="25dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:background="#388E3C"/>
+
+    <ListView
+        android:layout_below="@+id/stateTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:id="@+id/listview" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="45dp"
+        android:layout_marginLeft="290dp"
+        app:backgroundTint="@color/colorPrimary"
+        android:src="@drawable/gps" />
+
+</RelativeLayout>
